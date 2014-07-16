@@ -1,11 +1,11 @@
-body {font-family: serif; background-color: silver;}
+body {font-family: Linux Libertine, serif; background-color: silver;}
 h1 {font: x-large Linux Libertine, sans-serif; color: olive;
     border-bottom: thin black solid;}
 table {margin: 0;}
-.sidebar {background-color: olive; padding: 0.5em;}
-.sidebar UL LI {list-style-type: none; margin-left: 0;
+.sidebar {padding: 0.5em;} /* background-color: olive;> */
+.sidebar ul li {list-style-type: none; margin-left: 0;
                  margin-right: 0.5em;}
-.sidebar UL LI A {color: #FFCCCC;}
+.sidebar ul lli a {color: #FFCCCC;}
 .body {background: white no-repeat center
        url(http://www.mysite.org/pix/logo.gif);}
 img.icon {border: outset gray 3px; padding: 0;}
