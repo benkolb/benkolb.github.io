@@ -36,7 +36,7 @@ h2 {font: large 'Linux Libertine', sans-serif; color: rgb(0,84,130);}
 .navbar a.active {background-color: white; color: rgb(0,84,130);}
 
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
+  margin-top: 50px; /* Add a top margin to avoid content overlay */
 }
 
 table {margin: 0;}
